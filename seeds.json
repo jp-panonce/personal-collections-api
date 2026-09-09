@@ -1,8 +1,13 @@
 [
 	{
-		"text": "The quieter you become, the more you are able to hear.",
-		"tags": ["quote", "philosophies"],
-		"insights": "Quiet is not merely the absence of sound. It is the space in which subtle things become noticeable.\n\nWhen the noise of urgency settles, our own priorities, doubts, and intuitions become easier to distinguish."
+		"text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.\n-Antoine de Saint-Exupéry, The Little Prince",
+		"tags": ["quote","book-quote"],
+		"insights": ""
+	},
+	{
+		"text": "All grown-ups were once children... \nbut only few of them remember it.",
+		"tags": ["quote","book-quote"],
+		"insights": ""
 	},
 	{
 		"text": "We see the world not as it is, but as we are.",
